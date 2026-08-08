@@ -1,0 +1,15 @@
+C:\Users\mayna\OneDrive\repos\c-sharp-course\for-statements\CsharpProjects\foreach\bin\Debug\net10.0\foreach.exe
+C:\Users\mayna\OneDrive\repos\c-sharp-course\for-statements\CsharpProjects\foreach\bin\Debug\net10.0\foreach.deps.json
+C:\Users\mayna\OneDrive\repos\c-sharp-course\for-statements\CsharpProjects\foreach\bin\Debug\net10.0\foreach.runtimeconfig.json
+C:\Users\mayna\OneDrive\repos\c-sharp-course\for-statements\CsharpProjects\foreach\bin\Debug\net10.0\foreach.dll
+C:\Users\mayna\OneDrive\repos\c-sharp-course\for-statements\CsharpProjects\foreach\bin\Debug\net10.0\foreach.pdb
+C:\Users\mayna\OneDrive\repos\c-sharp-course\for-statements\CsharpProjects\foreach\obj\Debug\net10.0\foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayna\OneDrive\repos\c-sharp-course\for-statements\CsharpProjects\foreach\obj\Debug\net10.0\foreach.AssemblyInfoInputs.cache
+C:\Users\mayna\OneDrive\repos\c-sharp-course\for-statements\CsharpProjects\foreach\obj\Debug\net10.0\foreach.AssemblyInfo.cs
+C:\Users\mayna\OneDrive\repos\c-sharp-course\for-statements\CsharpProjects\foreach\obj\Debug\net10.0\foreach.csproj.CoreCompileInputs.cache
+C:\Users\mayna\OneDrive\repos\c-sharp-course\for-statements\CsharpProjects\foreach\obj\Debug\net10.0\foreach.sourcelink.json
+C:\Users\mayna\OneDrive\repos\c-sharp-course\for-statements\CsharpProjects\foreach\obj\Debug\net10.0\foreach.dll
+C:\Users\mayna\OneDrive\repos\c-sharp-course\for-statements\CsharpProjects\foreach\obj\Debug\net10.0\refint\foreach.dll
+C:\Users\mayna\OneDrive\repos\c-sharp-course\for-statements\CsharpProjects\foreach\obj\Debug\net10.0\foreach.pdb
+C:\Users\mayna\OneDrive\repos\c-sharp-course\for-statements\CsharpProjects\foreach\obj\Debug\net10.0\foreach.genruntimeconfig.cache
+C:\Users\mayna\OneDrive\repos\c-sharp-course\for-statements\CsharpProjects\foreach\obj\Debug\net10.0\ref\foreach.dll
