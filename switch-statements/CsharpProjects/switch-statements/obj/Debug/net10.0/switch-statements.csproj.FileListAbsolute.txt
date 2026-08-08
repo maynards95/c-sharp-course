@@ -1,0 +1,15 @@
+C:\Users\mayna\OneDrive\repos\c-sharp-course\switch-statements\CsharpProjects\switch-statements\bin\Debug\net10.0\switch-statements.exe
+C:\Users\mayna\OneDrive\repos\c-sharp-course\switch-statements\CsharpProjects\switch-statements\bin\Debug\net10.0\switch-statements.deps.json
+C:\Users\mayna\OneDrive\repos\c-sharp-course\switch-statements\CsharpProjects\switch-statements\bin\Debug\net10.0\switch-statements.runtimeconfig.json
+C:\Users\mayna\OneDrive\repos\c-sharp-course\switch-statements\CsharpProjects\switch-statements\bin\Debug\net10.0\switch-statements.dll
+C:\Users\mayna\OneDrive\repos\c-sharp-course\switch-statements\CsharpProjects\switch-statements\bin\Debug\net10.0\switch-statements.pdb
+C:\Users\mayna\OneDrive\repos\c-sharp-course\switch-statements\CsharpProjects\switch-statements\obj\Debug\net10.0\switch-statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayna\OneDrive\repos\c-sharp-course\switch-statements\CsharpProjects\switch-statements\obj\Debug\net10.0\switch-statements.AssemblyInfoInputs.cache
+C:\Users\mayna\OneDrive\repos\c-sharp-course\switch-statements\CsharpProjects\switch-statements\obj\Debug\net10.0\switch-statements.AssemblyInfo.cs
+C:\Users\mayna\OneDrive\repos\c-sharp-course\switch-statements\CsharpProjects\switch-statements\obj\Debug\net10.0\switch-statements.csproj.CoreCompileInputs.cache
+C:\Users\mayna\OneDrive\repos\c-sharp-course\switch-statements\CsharpProjects\switch-statements\obj\Debug\net10.0\switch-statements.sourcelink.json
+C:\Users\mayna\OneDrive\repos\c-sharp-course\switch-statements\CsharpProjects\switch-statements\obj\Debug\net10.0\switch-statements.dll
+C:\Users\mayna\OneDrive\repos\c-sharp-course\switch-statements\CsharpProjects\switch-statements\obj\Debug\net10.0\refint\switch-statements.dll
+C:\Users\mayna\OneDrive\repos\c-sharp-course\switch-statements\CsharpProjects\switch-statements\obj\Debug\net10.0\switch-statements.pdb
+C:\Users\mayna\OneDrive\repos\c-sharp-course\switch-statements\CsharpProjects\switch-statements\obj\Debug\net10.0\switch-statements.genruntimeconfig.cache
+C:\Users\mayna\OneDrive\repos\c-sharp-course\switch-statements\CsharpProjects\switch-statements\obj\Debug\net10.0\ref\switch-statements.dll
